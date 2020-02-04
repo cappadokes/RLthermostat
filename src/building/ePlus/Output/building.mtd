@@ -1,0 +1,2024 @@
+
+ Meters for 46,BLOCK1:OFFICE4 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:OFFICE4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK1:OFFICE4 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Office4#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 107,BLOCK1:OFFICE5%6 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:OFFICE5%6 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK1:OFFICE5%6 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Office5%6#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 138,BLOCK1:WC GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:WC [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK1:WC [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Wc#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 169,BLOCK1:ELEVAT%CORRIDOR0 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Elevat%corridor0#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 200,BLOCK2:OFFICE12 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK2:OFFICE12 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK2:OFFICE12 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block2:Office12#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 231,BLOCK2:ELEVAT%CORRIDOR1 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block2:Elevat%corridor1#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 262,BLOCK2:OFFICE11 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK2:OFFICE11 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK2:OFFICE11 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block2:Office11#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 293,BLOCK2:OFFICE13 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK2:OFFICE13 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK2:OFFICE13 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block2:Office13#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 324,GROUNDFLOOR:OFFICE3 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:OFFICE3 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:GROUNDFLOOR:OFFICE3 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Office3#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 355,GROUNDFLOOR:OFFICE1 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:OFFICE1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:GROUNDFLOOR:OFFICE1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Office1#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 386,GROUNDFLOOR:CORRIDOR%A1 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:CORRIDOR%A1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:GROUNDFLOOR:CORRIDOR%A1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Corridor%a1#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 417,GROUNDFLOOR:CORRIDOR%A2 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:CORRIDOR%A2 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:GROUNDFLOOR:CORRIDOR%A2 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Corridor%a2#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 448,GROUNDFLOOR:OFFICE2 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:OFFICE2 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:GROUNDFLOOR:OFFICE2 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Office2#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 479,UNDERGROUNDFLOOR:ZONE1 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNDERGROUNDFLOOR:ZONE1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:UNDERGROUNDFLOOR:ZONE1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#UndergroundFloor:Zone1#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 510,FIRSTFLOOR:OFFICE10 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:OFFICE10 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:FIRSTFLOOR:OFFICE10 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Office10#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 541,FIRSTFLOOR:OFFICE8 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:OFFICE8 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:FIRSTFLOOR:OFFICE8 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Office8#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 572,FIRSTFLOOR:CORRIDOR%B1 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:CORRIDOR%B1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:FIRSTFLOOR:CORRIDOR%B1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Corridor%b1#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 603,FIRSTFLOOR:CORRIDOR%B2 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:CORRIDOR%B2 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:FIRSTFLOOR:CORRIDOR%B2 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Corridor%b2#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 634,FIRSTFLOOR:OFFICE9 GENERAL LIGHTING:Lights Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:OFFICE9 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:FIRSTFLOOR:OFFICE9 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Office9#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 665,BLOCK1:OFFICE4 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:OFFICE4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK1:OFFICE4 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Office4#05:InteriorEquipment:Electricity [J]
+
+ Meters for 696,BLOCK1:OFFICE5%6 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:OFFICE5%6 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK1:OFFICE5%6 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Office5%6#05:InteriorEquipment:Electricity [J]
+
+ Meters for 717,BLOCK1:WC EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:WC [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK1:WC [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Wc#05:InteriorEquipment:Electricity [J]
+
+ Meters for 738,BLOCK1:ELEVAT%CORRIDOR0 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Elevat%corridor0#05:InteriorEquipment:Electricity [J]
+
+ Meters for 759,BLOCK2:OFFICE12 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK2:OFFICE12 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK2:OFFICE12 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block2:Office12#05:InteriorEquipment:Electricity [J]
+
+ Meters for 780,BLOCK2:ELEVAT%CORRIDOR1 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block2:Elevat%corridor1#05:InteriorEquipment:Electricity [J]
+
+ Meters for 801,BLOCK2:OFFICE11 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK2:OFFICE11 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK2:OFFICE11 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block2:Office11#05:InteriorEquipment:Electricity [J]
+
+ Meters for 822,BLOCK2:OFFICE13 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK2:OFFICE13 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK2:OFFICE13 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block2:Office13#05:InteriorEquipment:Electricity [J]
+
+ Meters for 843,GROUNDFLOOR:OFFICE3 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:OFFICE3 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:OFFICE3 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Office3#05:InteriorEquipment:Electricity [J]
+
+ Meters for 864,GROUNDFLOOR:OFFICE1 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:OFFICE1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:OFFICE1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Office1#05:InteriorEquipment:Electricity [J]
+
+ Meters for 885,GROUNDFLOOR:CORRIDOR%A1 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:CORRIDOR%A1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:CORRIDOR%A1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Corridor%a1#05:InteriorEquipment:Electricity [J]
+
+ Meters for 906,GROUNDFLOOR:CORRIDOR%A2 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:CORRIDOR%A2 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:CORRIDOR%A2 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Corridor%a2#05:InteriorEquipment:Electricity [J]
+
+ Meters for 927,GROUNDFLOOR:OFFICE2 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:GROUNDFLOOR:OFFICE2 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:OFFICE2 [J]
+  OnMeter=ELECTRIC EQUIPMENT#GroundFloor:Office2#05:InteriorEquipment:Electricity [J]
+
+ Meters for 948,UNDERGROUNDFLOOR:ZONE1 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNDERGROUNDFLOOR:ZONE1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNDERGROUNDFLOOR:ZONE1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#UndergroundFloor:Zone1#05:InteriorEquipment:Electricity [J]
+
+ Meters for 969,FIRSTFLOOR:OFFICE10 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:OFFICE10 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:OFFICE10 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Office10#05:InteriorEquipment:Electricity [J]
+
+ Meters for 990,FIRSTFLOOR:OFFICE8 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:OFFICE8 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:OFFICE8 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Office8#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1011,FIRSTFLOOR:CORRIDOR%B1 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:CORRIDOR%B1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:CORRIDOR%B1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Corridor%b1#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1032,FIRSTFLOOR:CORRIDOR%B2 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:CORRIDOR%B2 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:CORRIDOR%B2 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Corridor%b2#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1053,FIRSTFLOOR:OFFICE9 EQUIPMENT 1:Electric Equipment Electric Consumption [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:FIRSTFLOOR:OFFICE9 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:OFFICE9 [J]
+  OnMeter=ELECTRIC EQUIPMENT#FirstFloor:Office9#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1148,BLOCK1:OFFICE4:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:OFFICE4 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK1:OFFICE4 [J]
+
+ Meters for 1199,BLOCK1:OFFICE4:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:OFFICE4 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK1:OFFICE4 [J]
+
+ Meters for 1221,BLOCK1:OFFICE5%6:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:OFFICE5%6 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK1:OFFICE5%6 [J]
+
+ Meters for 1242,BLOCK1:OFFICE5%6:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:OFFICE5%6 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK1:OFFICE5%6 [J]
+
+ Meters for 1254,BLOCK1:WC:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:WC [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK1:WC [J]
+
+ Meters for 1275,BLOCK1:WC:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:WC [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK1:WC [J]
+
+ Meters for 1287,BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J]
+
+ Meters for 1308,BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J]
+
+ Meters for 1320,BLOCK2:OFFICE12:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK2:OFFICE12 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK2:OFFICE12 [J]
+
+ Meters for 1341,BLOCK2:OFFICE12:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK2:OFFICE12 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK2:OFFICE12 [J]
+
+ Meters for 1353,BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J]
+
+ Meters for 1374,BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J]
+
+ Meters for 1386,BLOCK2:OFFICE11:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK2:OFFICE11 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK2:OFFICE11 [J]
+
+ Meters for 1407,BLOCK2:OFFICE11:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK2:OFFICE11 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK2:OFFICE11 [J]
+
+ Meters for 1419,BLOCK2:OFFICE13:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK2:OFFICE13 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK2:OFFICE13 [J]
+
+ Meters for 1440,BLOCK2:OFFICE13:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK2:OFFICE13 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK2:OFFICE13 [J]
+
+ Meters for 1452,UNDERGROUND:ZONE2:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNDERGROUND:ZONE2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:UNDERGROUND:ZONE2 [J]
+
+ Meters for 1473,UNDERGROUND:ZONE2:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNDERGROUND:ZONE2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:UNDERGROUND:ZONE2 [J]
+
+ Meters for 1485,UNDERGROUND:ZONE1:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNDERGROUND:ZONE1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:UNDERGROUND:ZONE1 [J]
+
+ Meters for 1506,UNDERGROUND:ZONE1:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNDERGROUND:ZONE1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:UNDERGROUND:ZONE1 [J]
+
+ Meters for 1518,FIRSTFLOOR:ZONE7:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE7 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE7 [J]
+
+ Meters for 1539,FIRSTFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE7 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE7 [J]
+
+ Meters for 1551,FIRSTFLOOR:ZONE3:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE3 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE3 [J]
+
+ Meters for 1572,FIRSTFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE3 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE3 [J]
+
+ Meters for 1584,FIRSTFLOOR:ZONE6:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE6 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE6 [J]
+
+ Meters for 1605,FIRSTFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE6 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE6 [J]
+
+ Meters for 1617,FIRSTFLOOR:ZONE5:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE5 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE5 [J]
+
+ Meters for 1638,FIRSTFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE5 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE5 [J]
+
+ Meters for 1650,FIRSTFLOOR:ZONE2:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE2 [J]
+
+ Meters for 1671,FIRSTFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE2 [J]
+
+ Meters for 1683,FIRSTFLOOR:ZONE1:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE1 [J]
+
+ Meters for 1704,FIRSTFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE1 [J]
+
+ Meters for 1716,FIRSTFLOOR:ZONE4:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE4 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE4 [J]
+
+ Meters for 1737,FIRSTFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE4 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE4 [J]
+
+ Meters for 1749,GROUNDFLOOR:ZONE7:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE7 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE7 [J]
+
+ Meters for 1770,GROUNDFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE7 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE7 [J]
+
+ Meters for 1782,GROUNDFLOOR:ZONE3:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE3 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE3 [J]
+
+ Meters for 1803,GROUNDFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE3 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE3 [J]
+
+ Meters for 1815,GROUNDFLOOR:ZONE6:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE6 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE6 [J]
+
+ Meters for 1836,GROUNDFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE6 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE6 [J]
+
+ Meters for 1848,GROUNDFLOOR:ZONE5:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE5 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE5 [J]
+
+ Meters for 1869,GROUNDFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE5 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE5 [J]
+
+ Meters for 1881,GROUNDFLOOR:ZONE2:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE2 [J]
+
+ Meters for 1902,GROUNDFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE2 [J]
+
+ Meters for 1914,GROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE1 [J]
+
+ Meters for 1935,GROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE1 [J]
+
+ Meters for 1947,GROUNDFLOOR:ZONE4:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE4 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE4 [J]
+
+ Meters for 1968,GROUNDFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE4 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE4 [J]
+
+ Meters for 1980,GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE3 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE3 [J]
+
+ Meters for 2001,GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE3 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE3 [J]
+
+ Meters for 2013,GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE1 [J]
+
+ Meters for 2034,GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE1 [J]
+
+ Meters for 2046,GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A1 [J]
+
+ Meters for 2067,GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A1 [J]
+
+ Meters for 2079,GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A2 [J]
+
+ Meters for 2100,GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A2 [J]
+
+ Meters for 2112,GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE2 [J]
+
+ Meters for 2133,GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE2 [J]
+
+ Meters for 2145,UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNDERGROUNDFLOOR:ZONE1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:UNDERGROUNDFLOOR:ZONE1 [J]
+
+ Meters for 2166,UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNDERGROUNDFLOOR:ZONE1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:UNDERGROUNDFLOOR:ZONE1 [J]
+
+ Meters for 2178,FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE10 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE10 [J]
+
+ Meters for 2199,FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE10 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE10 [J]
+
+ Meters for 2211,FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE8 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE8 [J]
+
+ Meters for 2232,FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE8 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE8 [J]
+
+ Meters for 2244,FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B1 [J]
+
+ Meters for 2265,FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B1 [J]
+
+ Meters for 2277,FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B2 [J]
+
+ Meters for 2298,FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B2 [J]
+
+ Meters for 2310,FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE9 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE9 [J]
+
+ Meters for 2331,FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE9 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE9 [J]
+
+ Meters for 2343,BLOCK1:OFFICE4 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2375,BLOCK1:OFFICE4 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2407,BLOCK1:OFFICE5%6 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2409,BLOCK1:OFFICE5%6 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2411,BLOCK2:OFFICE11 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2413,BLOCK2:OFFICE11 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2415,BLOCK2:OFFICE13 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2417,BLOCK2:OFFICE13 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2419,BLOCK1:OFFICE1 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2421,BLOCK1:OFFICE1 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2423,BLOCK1:OFFICE2 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2425,BLOCK1:OFFICE2 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2427,BLOCK1:OFFICE3 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2429,BLOCK1:OFFICE3 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2431,BLOCK4:OFFICE10 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2433,BLOCK4:OFFICE10 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2435,BLOCK4:OFFICE9 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2437,BLOCK4:OFFICE9 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2439,BLOCK4:OFFICE8 IDEAL LOADS AIR:Ideal Loads Air Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 2441,BLOCK4:OFFICE8 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 2443,Whole Building:Total Electric Energy Purchased [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+
+ Meters for 2474,Whole Building:Total Electric Energy Surplus [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 2505,Whole Building:Net Electric Energy Purchased [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+
+ Meters for 2561,Site:Carbon Equivalent Pollution From NOx [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 2582,Site:Carbon Equivalent Pollution From CH4 [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 2583,Site:Carbon Equivalent Pollution From CO2 [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  BLOCK1:OFFICE4 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:OFFICE5%6 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:WC GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:ELEVAT%CORRIDOR0 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE12 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:ELEVAT%CORRIDOR1 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE11 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE13 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE3 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE1 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A1 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A2 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE2 GENERAL LIGHTING:Lights Electric Consumption
+  UNDERGROUNDFLOOR:ZONE1 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE10 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE8 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B1 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B2 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE9 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:OFFICE4 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:OFFICE5%6 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:WC EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:ELEVAT%CORRIDOR0 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE12 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:ELEVAT%CORRIDOR1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE11 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE13 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE3 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  UNDERGROUNDFLOOR:ZONE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE10 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE8 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE9 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  BLOCK1:OFFICE4 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:OFFICE5%6 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:WC GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:ELEVAT%CORRIDOR0 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE12 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:ELEVAT%CORRIDOR1 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE11 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE13 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE3 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE1 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A1 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A2 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE2 GENERAL LIGHTING:Lights Electric Consumption
+  UNDERGROUNDFLOOR:ZONE1 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE10 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE8 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B1 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B2 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE9 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:OFFICE4 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:OFFICE5%6 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:WC EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:ELEVAT%CORRIDOR0 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE12 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:ELEVAT%CORRIDOR1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE11 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE13 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE3 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  UNDERGROUNDFLOOR:ZONE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE10 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE8 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE9 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=Electricity:Zone:BLOCK1:OFFICE4 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK1:OFFICE4 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:OFFICE4 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK1:OFFICE4 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:OFFICE5%6 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:WC GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:ELEVAT%CORRIDOR0 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE12 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:ELEVAT%CORRIDOR1 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE11 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE13 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE3 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE1 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A1 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A2 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE2 GENERAL LIGHTING:Lights Electric Consumption
+  UNDERGROUNDFLOOR:ZONE1 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE10 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE8 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B1 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B2 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE9 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK1:OFFICE4 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK1:OFFICE4 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Office4#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK1:OFFICE4 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:BLOCK1:OFFICE5%6 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK1:OFFICE5%6 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:OFFICE5%6 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK1:OFFICE5%6 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK1:OFFICE5%6 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Office5%6#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK1:OFFICE5%6 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:BLOCK1:WC [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK1:WC GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:WC EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK1:WC [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK1:WC GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Wc#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK1:WC GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK1:ELEVAT%CORRIDOR0 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK1:ELEVAT%CORRIDOR0 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK1:ELEVAT%CORRIDOR0 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Elevat%corridor0#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK1:ELEVAT%CORRIDOR0 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:BLOCK2:OFFICE12 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK2:OFFICE12 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE12 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK2:OFFICE12 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK2:OFFICE12 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block2:Office12#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK2:OFFICE12 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK2:ELEVAT%CORRIDOR1 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:ELEVAT%CORRIDOR1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK2:ELEVAT%CORRIDOR1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block2:Elevat%corridor1#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK2:ELEVAT%CORRIDOR1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:BLOCK2:OFFICE11 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK2:OFFICE11 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE11 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK2:OFFICE11 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK2:OFFICE11 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block2:Office11#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK2:OFFICE11 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:BLOCK2:OFFICE13 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK2:OFFICE13 GENERAL LIGHTING:Lights Electric Consumption
+  BLOCK2:OFFICE13 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK2:OFFICE13 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK2:OFFICE13 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block2:Office13#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK2:OFFICE13 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:GROUNDFLOOR:OFFICE3 [J], ResourceType=Electricity, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE3 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE3 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:GROUNDFLOOR:OFFICE3 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE3 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Office3#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  GROUNDFLOOR:OFFICE3 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:GROUNDFLOOR:OFFICE1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE1 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:GROUNDFLOOR:OFFICE1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Office1#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  GROUNDFLOOR:OFFICE1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:GROUNDFLOOR:CORRIDOR%A1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A1 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:GROUNDFLOOR:CORRIDOR%A1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Corridor%a1#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  GROUNDFLOOR:CORRIDOR%A1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:GROUNDFLOOR:CORRIDOR%A2 [J], ResourceType=Electricity, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A2 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:GROUNDFLOOR:CORRIDOR%A2 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A2 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Corridor%a2#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  GROUNDFLOOR:CORRIDOR%A2 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:GROUNDFLOOR:OFFICE2 [J], ResourceType=Electricity, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE2 GENERAL LIGHTING:Lights Electric Consumption
+  GROUNDFLOOR:OFFICE2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:GROUNDFLOOR:OFFICE2 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE2 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Office2#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  GROUNDFLOOR:OFFICE2 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:UNDERGROUNDFLOOR:ZONE1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  UNDERGROUNDFLOOR:ZONE1 GENERAL LIGHTING:Lights Electric Consumption
+  UNDERGROUNDFLOOR:ZONE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:UNDERGROUNDFLOOR:ZONE1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  UNDERGROUNDFLOOR:ZONE1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#UndergroundFloor:Zone1#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  UNDERGROUNDFLOOR:ZONE1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:FIRSTFLOOR:OFFICE10 [J], ResourceType=Electricity, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE10 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE10 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:FIRSTFLOOR:OFFICE10 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE10 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Office10#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  FIRSTFLOOR:OFFICE10 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:FIRSTFLOOR:OFFICE8 [J], ResourceType=Electricity, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE8 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE8 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:FIRSTFLOOR:OFFICE8 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE8 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Office8#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  FIRSTFLOOR:OFFICE8 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:FIRSTFLOOR:CORRIDOR%B1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B1 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:FIRSTFLOOR:CORRIDOR%B1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Corridor%b1#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  FIRSTFLOOR:CORRIDOR%B1 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:FIRSTFLOOR:CORRIDOR%B2 [J], ResourceType=Electricity, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B2 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:FIRSTFLOOR:CORRIDOR%B2 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B2 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Corridor%b2#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  FIRSTFLOOR:CORRIDOR%B2 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=Electricity:Zone:FIRSTFLOOR:OFFICE9 [J], ResourceType=Electricity, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE9 GENERAL LIGHTING:Lights Electric Consumption
+  FIRSTFLOOR:OFFICE9 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorLights:Electricity:Zone:FIRSTFLOOR:OFFICE9 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE9 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Office9#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  FIRSTFLOOR:OFFICE9 GENERAL LIGHTING:Lights Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK1:OFFICE4 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:OFFICE5%6 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:WC EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK1:ELEVAT%CORRIDOR0 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE12 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:ELEVAT%CORRIDOR1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE11 EQUIPMENT 1:Electric Equipment Electric Consumption
+  BLOCK2:OFFICE13 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE3 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:CORRIDOR%A2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  GROUNDFLOOR:OFFICE2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  UNDERGROUNDFLOOR:ZONE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE10 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE8 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B1 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:CORRIDOR%B2 EQUIPMENT 1:Electric Equipment Electric Consumption
+  FIRSTFLOOR:OFFICE9 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK1:OFFICE4 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK1:OFFICE4 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Office4#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK1:OFFICE4 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK1:OFFICE5%6 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK1:OFFICE5%6 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Office5%6#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK1:OFFICE5%6 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK1:WC [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK1:WC EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Wc#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK1:WC EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK1:ELEVAT%CORRIDOR0 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Elevat%corridor0#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK1:ELEVAT%CORRIDOR0 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK2:OFFICE12 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK2:OFFICE12 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block2:Office12#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK2:OFFICE12 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK2:ELEVAT%CORRIDOR1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block2:Elevat%corridor1#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK2:ELEVAT%CORRIDOR1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK2:OFFICE11 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK2:OFFICE11 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block2:Office11#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK2:OFFICE11 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK2:OFFICE13 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK2:OFFICE13 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#Block2:Office13#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BLOCK2:OFFICE13 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:OFFICE3 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE3 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Office3#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  GROUNDFLOOR:OFFICE3 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:OFFICE1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Office1#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  GROUNDFLOOR:OFFICE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:CORRIDOR%A1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Corridor%a1#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  GROUNDFLOOR:CORRIDOR%A1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:CORRIDOR%A2 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Corridor%a2#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  GROUNDFLOOR:CORRIDOR%A2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:GROUNDFLOOR:OFFICE2 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#GroundFloor:Office2#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  GROUNDFLOOR:OFFICE2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:UNDERGROUNDFLOOR:ZONE1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  UNDERGROUNDFLOOR:ZONE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#UndergroundFloor:Zone1#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  UNDERGROUNDFLOOR:ZONE1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:OFFICE10 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE10 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Office10#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  FIRSTFLOOR:OFFICE10 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:OFFICE8 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE8 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Office8#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  FIRSTFLOOR:OFFICE8 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:CORRIDOR%B1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Corridor%b1#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  FIRSTFLOOR:CORRIDOR%B1 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:CORRIDOR%B2 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Corridor%b2#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  FIRSTFLOOR:CORRIDOR%B2 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=InteriorEquipment:Electricity:Zone:FIRSTFLOOR:OFFICE9 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE9 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=ELECTRIC EQUIPMENT#FirstFloor:Office9#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  FIRSTFLOOR:OFFICE9 EQUIPMENT 1:Electric Equipment Electric Consumption
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  BLOCK1:OFFICE4:Zone/Sys Sensible Heating Energy
+  BLOCK1:OFFICE4:Zone/Sys Sensible Cooling Energy
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Heating Energy
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Cooling Energy
+  BLOCK1:WC:Zone/Sys Sensible Heating Energy
+  BLOCK1:WC:Zone/Sys Sensible Cooling Energy
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Heating Energy
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE12:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE12:Zone/Sys Sensible Cooling Energy
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Heating Energy
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE11:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE11:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE13:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE13:Zone/Sys Sensible Cooling Energy
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Heating Energy
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Cooling Energy
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Heating Energy
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Cooling Energy
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  BLOCK1:OFFICE4:Zone/Sys Sensible Heating Energy
+  BLOCK1:OFFICE4:Zone/Sys Sensible Cooling Energy
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Heating Energy
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Cooling Energy
+  BLOCK1:WC:Zone/Sys Sensible Heating Energy
+  BLOCK1:WC:Zone/Sys Sensible Cooling Energy
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Heating Energy
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE12:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE12:Zone/Sys Sensible Cooling Energy
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Heating Energy
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE11:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE11:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE13:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE13:Zone/Sys Sensible Cooling Energy
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Heating Energy
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Cooling Energy
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Heating Energy
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Cooling Energy
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK1:OFFICE4 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK1:OFFICE4:Zone/Sys Sensible Heating Energy
+  BLOCK1:OFFICE4:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  BLOCK1:OFFICE4:Zone/Sys Sensible Heating Energy
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Heating Energy
+  BLOCK1:WC:Zone/Sys Sensible Heating Energy
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE12:Zone/Sys Sensible Heating Energy
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE11:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE13:Zone/Sys Sensible Heating Energy
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Heating Energy
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Heating Energy
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK1:OFFICE4 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK1:OFFICE4:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  BLOCK1:OFFICE4:Zone/Sys Sensible Cooling Energy
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Cooling Energy
+  BLOCK1:WC:Zone/Sys Sensible Cooling Energy
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE12:Zone/Sys Sensible Cooling Energy
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE11:Zone/Sys Sensible Cooling Energy
+  BLOCK2:OFFICE13:Zone/Sys Sensible Cooling Energy
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Cooling Energy
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Cooling Energy
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Cooling Energy
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Cooling Energy
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK1:OFFICE4 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK1:OFFICE4:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK1:OFFICE5%6 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Heating Energy
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK1:OFFICE5%6 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK1:OFFICE5%6 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK1:OFFICE5%6:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK1:WC [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK1:WC:Zone/Sys Sensible Heating Energy
+  BLOCK1:WC:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK1:WC [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK1:WC:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK1:WC [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK1:WC:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Heating Energy
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK1:ELEVAT%CORRIDOR0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK1:ELEVAT%CORRIDOR0:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK2:OFFICE12 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK2:OFFICE12:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE12:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK2:OFFICE12 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK2:OFFICE12:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK2:OFFICE12 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK2:OFFICE12:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Heating Energy
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK2:ELEVAT%CORRIDOR1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK2:ELEVAT%CORRIDOR1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK2:OFFICE11 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK2:OFFICE11:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE11:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK2:OFFICE11 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK2:OFFICE11:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK2:OFFICE11 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK2:OFFICE11:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK2:OFFICE13 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK2:OFFICE13:Zone/Sys Sensible Heating Energy
+  BLOCK2:OFFICE13:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK2:OFFICE13 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK2:OFFICE13:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK2:OFFICE13 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK2:OFFICE13:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:UNDERGROUND:ZONE2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Heating Energy
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:UNDERGROUND:ZONE2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:UNDERGROUND:ZONE2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  UNDERGROUND:ZONE2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:UNDERGROUND:ZONE1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Heating Energy
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:UNDERGROUND:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:UNDERGROUND:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  UNDERGROUND:ZONE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE7 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE7 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE7 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE3 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE3 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE3 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE6 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE6 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE6 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE5 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE5 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE5 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:ZONE4 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:ZONE4 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:ZONE4 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE7 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE7 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE7 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE7:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE3 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE3 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE3 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE3:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE6 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE6 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE6 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE6:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE5 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE5 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE5 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE5:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:ZONE4 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:ZONE4 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:ZONE4 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:ZONE4:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE3 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE3 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE3 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE3:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:CORRIDOR%A2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:CORRIDOR%A2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:GROUNDFLOOR:OFFICE2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Heating Energy
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:GROUNDFLOOR:OFFICE2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  GROUNDFLOOR:OFFICE2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:UNDERGROUNDFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:UNDERGROUNDFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:UNDERGROUNDFLOOR:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  UNDERGROUNDFLOOR:ZONE1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE10 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE10 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE10 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE10:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE8 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE8 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE8 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE8:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B1:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:CORRIDOR%B2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:CORRIDOR%B2:Zone/Sys Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:FIRSTFLOOR:OFFICE9 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Heating Energy
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE9 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:FIRSTFLOOR:OFFICE9 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  FIRSTFLOOR:OFFICE9:Zone/Sys Sensible Cooling Energy
+
+ For Meter=DistrictHeating:Facility [J], ResourceType=DistrictHeating, contents are:
+  BLOCK1:OFFICE4 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE5%6 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK2:OFFICE11 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK2:OFFICE13 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE1 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE2 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE3 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE10 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE9 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE8 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+
+ For Meter=DistrictHeating:HVAC [J], ResourceType=DistrictHeating, Group=HVAC, contents are:
+  BLOCK1:OFFICE4 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE5%6 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK2:OFFICE11 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK2:OFFICE13 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE1 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE2 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE3 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE10 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE9 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE8 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+
+ For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  BLOCK1:OFFICE4 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE5%6 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK2:OFFICE11 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK2:OFFICE13 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE1 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE2 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK1:OFFICE3 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE10 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE9 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+  BLOCK4:OFFICE8 IDEAL LOADS AIR:Ideal Loads Air Heating Energy
+
+ For Meter=DistrictCooling:Facility [J], ResourceType=DistrictCooling, contents are:
+  BLOCK1:OFFICE4 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE5%6 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK2:OFFICE11 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK2:OFFICE13 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE1 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE2 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE3 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE10 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE9 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE8 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+
+ For Meter=DistrictCooling:HVAC [J], ResourceType=DistrictCooling, Group=HVAC, contents are:
+  BLOCK1:OFFICE4 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE5%6 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK2:OFFICE11 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK2:OFFICE13 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE1 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE2 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE3 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE10 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE9 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE8 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+
+ For Meter=Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
+  BLOCK1:OFFICE4 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE5%6 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK2:OFFICE11 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK2:OFFICE13 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE1 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE2 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK1:OFFICE3 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE10 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE9 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+  BLOCK4:OFFICE8 IDEAL LOADS AIR:Ideal Loads Air Total Cooling Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Total Electric Energy Purchased
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Total Electric Energy Purchased
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Total Electric Energy Purchased
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Total Electric Energy Surplus
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Total Electric Energy Surplus
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Total Electric Energy Surplus
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Net Electric Energy Purchased
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Net Electric Energy Purchased
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Net Electric Energy Purchased
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Carbon Equivalent Pollution From NOx
+  Site:Carbon Equivalent Pollution From CH4
+  Site:Carbon Equivalent Pollution From CO2
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Carbon Equivalent Pollution From NOx
+  Site:Carbon Equivalent Pollution From CH4
+  Site:Carbon Equivalent Pollution From CO2

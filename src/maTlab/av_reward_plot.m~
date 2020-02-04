@@ -1,0 +1,36 @@
+%========================================================================
+%|National Technical University of Athens                               |
+%|School of Electrical & Computer Engineering                           |
+%|Microprocessors & Digital Systems Lab                                 |
+%|----------------------------------------------------------------------|
+%|"Realization of an Energy Management System for Commercial Buildings" |
+%|Undergraduate Thesis                                                  |
+%========================================================================
+
+%This script calculates a season's rewards-sum-per
+
+global rewards
+
+starter = timesteps*start_hour;
+ender = timesteps*end_hour;
+episode_length = ender-starter+1;
+day_length = 24*timesteps;
+
+episode_count = 0; sum = 0;
+av_reward = [];
+
+for time = 1:length(rewards)
+    if time > ender
+        starter = starter+day_length;
+        ender = starter+episode_length;
+        episode_count = episode_count+1;
+        av_reward(episode_count) = sum;
+        sum = 0;
+    elseif time < starter
+        continue;
+    else
+        sum = sum+rewards(time);
+    end
+end
+
+plot(av_reward);

@@ -1,0 +1,61 @@
+
+=============== EnergyPlus =================
+   Input file  : building.idf
+   Weather file: Athens.epw
+ExpandObjects Started.
+No expanded file generated.
+ExpandObjects Finished. Time:     0.404
+
+=============== EnergyPlus =================
+   Input file  : building.idf
+ Missing Energy+.ini
+ EnergyPlus Starting
+ EnergyPlus, Linux, VERSION 6.0.0.023
+ Processing Data Dictionary
+ Processing Input File
+ Initializing Simulation
+ Reporting Surfaces
+ Initializing New Environment Parameters
+ Warming up {1}
+ Instantiating Building Controls Virtual Test Bed
+ ExternalInterface initializes.
+ Number of outputs in ExternalInterface = 85
+ Number of inputs  in ExternalInterface = 40
+ Updating Beam-to-Diffuse Exterior Solar Reflection Factors
+ Updating Beam-to-Beam Exterior Solar Reflection Factors
+ Warming up {2}
+ Warming up {3}
+ Warming up {4}
+ Starting Simulation at 05/31 for UNTITLED
+ ExternalInterface starts first data exchange.
+ Updating Shadowing Calculations, Start Date=06/20
+ Updating Beam-to-Diffuse Exterior Solar Reflection Factors
+ Updating Beam-to-Beam Exterior Solar Reflection Factors
+ Continuing Simulation at 06/20 for UNTITLED
+ Updating Shadowing Calculations, Start Date=07/10
+ Updating Beam-to-Diffuse Exterior Solar Reflection Factors
+ Updating Beam-to-Beam Exterior Solar Reflection Factors
+ Continuing Simulation at 07/10 for UNTITLED
+ Updating Shadowing Calculations, Start Date=07/30
+ Updating Beam-to-Diffuse Exterior Solar Reflection Factors
+ Updating Beam-to-Beam Exterior Solar Reflection Factors
+ Continuing Simulation at 07/30 for UNTITLED
+ Updating Shadowing Calculations, Start Date=08/19
+ Updating Beam-to-Diffuse Exterior Solar Reflection Factors
+ Updating Beam-to-Beam Exterior Solar Reflection Factors
+ Continuing Simulation at 08/19 for UNTITLED
+ Writing tabular output file results using HTML format.
+ EnergyPlus Run Time=00hr 26min 23.23sec
+EnergyPlus Completed Successfully.
+ ReadVarsESO program starting.
+ ReadVars Run Time=00hr 00min  6.86sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO program starting.
+ Requested ESO file=eplusout.mtr
+ does not exist.  ReadVarsESO program terminated.
+ ReadVarsESO program terminated.
+  Started HVAC Diagram
+  Complete
+
+EnergyPlus output files are located in: "/home/clab/Desktop/thesis/sims/v13_NFQ_SEMI_FINAL/building/ePlus/Output"
+
